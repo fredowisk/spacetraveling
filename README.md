@@ -70,11 +70,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ### **/posts/post-id**
 ![Post](https://user-images.githubusercontent.com/53921083/233796271-745b2db0-a7c2-4c1b-b185-a5071e59f392.png)
-<br/>
-
 ![Content](https://user-images.githubusercontent.com/53921083/233796298-278a13ce-029f-45ef-9b3b-8456be92e09b.png)
-<br/>
-
 ![Comments](https://user-images.githubusercontent.com/53921083/233796306-97c48d43-c4e6-4caf-84a4-c5a0f9b67bcf.png)
 <br/>
 
